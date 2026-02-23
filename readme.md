@@ -20,6 +20,8 @@ student_api/
 
 ## ⚙️ Setup & Run
 
+**Prerequisite:** Python 3.12+
+
 ### 1. Create a virtual environment (recommended)
 ```bash
 python -m venv venv
